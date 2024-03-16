@@ -1,3 +1,4 @@
+![Banner](https://github.com/FarhanNaufalN/FarhanNaufalN/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Farhan Naufal Nurdiansyah</h1>
 <h3 align="center">I'm an undergraduate Computer Engineering Student at Indonesian University of Education. Very passionate on software engineering, specialize in Mobile Development.</h3>
 
